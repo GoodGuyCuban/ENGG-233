@@ -1,0 +1,2 @@
+message="howdy"
+print(message)
